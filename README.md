@@ -14,3 +14,4 @@ Um, that is a tough one considering that I have so many many of them to name.
 1. Mastering Embedded Programming
 2. github for dummies
 3. linux embedded real-time applications
+4. SQL All-In-One For Dummies
